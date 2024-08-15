@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @subashhohai(Subash Sharma)
+- 👋 Hi, I’m @subashhohai (Subash Sharma)
 - 👀 I’m interested in Gaming, Graphics Designing
 - 🌱 I’m currently learning How to chill
 - 💞️ I’m looking to collaborate on your work
-- 📫 How to reach me via Gmail:- perfovjx@gmail.com
+- 📫 How to reach me via Gmail: perfovjx@gmail.com
 - 😄 Pronouns: Subbi
 - ⚡ Fun fact: I can solve a Rubik’s Cube in under a minute
+- 🔗 Check out my portfolio: [Subash's Portfolio](https://subashportfolio27.netlify.app/#projects)
 
 <!---
 subashhohai/subashhohai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
