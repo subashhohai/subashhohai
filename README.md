@@ -1,10 +1,18 @@
 <div align="center">
 
 <a href="https://www.subashcode.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=64&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Subash+Sharma" alt="Subash Sharma" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=64&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Subash+Sharma" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=64&duration=2000&pause=99999&color=0B0F1A&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Subash+Sharma" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=64&duration=2000&pause=99999&color=0B0F1A&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Subash+Sharma" alt="Subash Sharma" />
+  </picture>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%40+Suvakrio+Group;19+y%2Fo+Full-Stack+Developer+from+Nepal;Building+the+companies+Nepal+couldn't+find;Strategy+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+Ship" alt="Typing intro" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%40+Suvakrio+Group;19+y%2Fo+Full-Stack+Developer+from+Nepal;Building+the+companies+Nepal+couldn't+find;Strategy+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+Ship" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%40+Suvakrio+Group;19+y%2Fo+Full-Stack+Developer+from+Nepal;Building+the+companies+Nepal+couldn't+find;Strategy+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+Ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=760&lines=Founder+%26+CEO+%40+Suvakrio+Group;19+y%2Fo+Full-Stack+Developer+from+Nepal;Building+the+companies+Nepal+couldn't+find;Strategy+%E2%86%92+Design+%E2%86%92+Code+%E2%86%92+Ship" alt="Typing intro" />
+</picture>
 
 <br/><br/>
 
@@ -27,7 +35,7 @@
     <td>
       <sub>🔴 🟡 🟢 &nbsp;&nbsp;<code>subash@suvakrio:~</code></sub>
       <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1600&pause=700&color=86EFAC&background=0D111700&multiline=true&width=740&height=250&lines=%24+whoami;Subash+Sharma+%E2%80%94+Founder+%26+CEO+%40+Suvakrio+Group;%24+cat+stack.txt;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;%24+ls+ventures%2F;nepeduai%2F++suvakrio-smm%2F++client-engineering%2F;%24+status+--now;%E2%97%8F+Shipping+NepEduAI+%C2%B7+Open+to+collaborations" alt="Terminal intro" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1600&pause=700&color=86EFAC&background=0D1117FF&multiline=true&width=740&height=250&lines=%24+whoami;Subash+Sharma+%E2%80%94+Founder+%26+CEO+%40+Suvakrio+Group;%24+cat+stack.txt;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Docker;%24+ls+ventures%2F;nepeduai%2F++suvakrio-smm%2F++client-engineering%2F;%24+status+--now;%E2%97%8F+Shipping+NepEduAI+%C2%B7+Open+to+collaborations" alt="Terminal intro" />
     </td>
   </tr>
 </table>
@@ -214,7 +222,13 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=818CF8&center=true&vCenter=true&width=700&lines=Got+a+project+in+mind%3F;Let's+build+something+people+actually+use." alt="Let's build" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=818CF8&center=true&vCenter=true&width=700&lines=Got+a+project+in+mind%3F;Let's+build+something+people+actually+use." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=4F46E5&center=true&vCenter=true&width=700&lines=Got+a+project+in+mind%3F;Let's+build+something+people+actually+use." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=4F46E5&center=true&vCenter=true&width=700&lines=Got+a+project+in+mind%3F;Let's+build+something+people+actually+use." alt="Let's build" />
+</picture>
+
+<br/>
 
 <a href="mailto:ceo@suvakrio.com"><img src="https://img.shields.io/badge/ceo@suvakrio.com-Start_a_conversation-818cf8?style=for-the-badge&labelColor=0b0f1a&logo=gmail&logoColor=white" /></a>
 <a href="https://suvakrio.com/"><img src="https://img.shields.io/badge/Partner_with-Suvakrio_Group-6366f1?style=for-the-badge&labelColor=0b0f1a" /></a>
